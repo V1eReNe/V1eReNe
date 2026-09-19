@@ -27,10 +27,10 @@
   <a href="https://www.tiktok.com/@_vie.rene_?_r=1&_t=ZS-99s3NWPK4SA">
   <img src="https://img.shields.io/badge/tiktok-logo?style=for-the-badge&logo=tiktok&logoColor=white&color=%230C1E29" width="14%">
     <br>
-ᴏʀ... ɪꜰ ʏᴏᴜ'ʀᴇ ꜱʜʏ
+<p align="left">ᴏʀ... ɪꜰ ʏᴏᴜ'ʀᴇ ꜱʜʏ
   <br>
   ɪ ʜᴀᴠᴇ
-  ᴛɢ ᴀɴᴏɴ <a href="[http://t.me/anonaskbot?start=nikkkki](http://t.me/anonaskbot?start=VieReNe)"></a>
+  <a href="http://t.me/anonaskbot?start=VieReNe">ᴛɢ ᴀɴᴏɴ</a>
   <br>
   <br>
   <br>
