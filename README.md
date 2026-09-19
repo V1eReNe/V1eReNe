@@ -37,6 +37,7 @@
   <br>
   <p align="center"><b>ᗪᑎI !</b></p>
   <p align="left">ᴜɴᴅᴇʀ 14 ʏ.ᴏ., ʀᴀᴄɪꜱᴍ, ʜᴏᴍᴏᴘʜᴏʙɪᴀ, ʀᴀᴅɪᴄᴀʟɪꜱᴍ, ᴘʀᴏᴄᴏᴍ, ᴍɪꜱᴏɢʏɴʏ, ᴀɢᴇᴘʟᴀʏᴇʀꜱ</p>
+  <img align="left" src="banner4.jpg" width="30%">
   <img align="right" src="banner3.png" width="20%">
   
   
