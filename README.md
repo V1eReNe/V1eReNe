@@ -1,4 +1,4 @@
-<img align="center" src="banner1.jpg" width="100%">
+<img align="center" src="banner1.png" width="100%">
 
 <h2 align="center">↻ ◁ || ▷ ↺ ⩇⩇:⩇⩇</h2>
 
